@@ -2,7 +2,8 @@
 
 body {
     text-align: center;
-    background: #E74C3C;
+    /*background: #E74C3C;*/
+    background-image: url("https://i.imgur.com/1QUXzJk.png");
     font-family: "Roboto", sans-serif;
     font-weight: 100;
 }
